@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kristofers Prancitis
+# Hi there 👋 I'm Kristofers Prancītis
 ---
 I am a software developer specializing in Web development.
 
