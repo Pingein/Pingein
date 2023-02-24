@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mareks Mateša
+# Hi there 👋 I'm Kristofers Prancitis
 ---
 I am a software developer specializing in Web development.
 
